@@ -2,12 +2,12 @@
 ## Image Restoration
 
 Team members:
-Chen Hui
-Hermeston Ryan
-Jovanovic Marko
-Mohammad Abdullah
-Patel Arjun
-Shah Arjun
+Chen Hui,
+Hermeston Ryan,
+Jovanovic Marko,
+Mohammad Abdullah,
+Patel Arjun,
+Shah Arjun,
 Smith Joe
 
 The following python libraries must be installed:
